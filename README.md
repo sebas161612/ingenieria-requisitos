@@ -48,7 +48,7 @@ Los artefactos se identifican mediante un **ID único** y una versión. La versi
 
 **Video de presentación del proyecto:**
 
-> [Agregar aquí el enlace al video.]
+> enlace video
 
 ## Lecciones aprendidas
 
